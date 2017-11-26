@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{92FF630B-924E-40F4-A58B-E5491FB6C164}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage1.html = HTMLPage1.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{C06029FB-3108-40C1-8C16-74E0633CCC85}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\DCjordan\Desktop\code-wallpaper-18.jpg = C:\Users\DCjordan\Desktop\code-wallpaper-18.jpg
+		C:\Users\DCjordan\Desktop\f_logo_online\png\FB-f-Logo__blue_29.png = C:\Users\DCjordan\Desktop\f_logo_online\png\FB-f-Logo__blue_29.png
+		C:\Users\DCjordan\Desktop\gplus-32.png = C:\Users\DCjordan\Desktop\gplus-32.png
+		C:\Users\DCjordan\Desktop\linkedin_logo\linkedin_logo_package\LinkedIn [in]\Screen\2-Color\In-2C-34px-R.png = C:\Users\DCjordan\Desktop\linkedin_logo\linkedin_logo_package\LinkedIn [in]\Screen\2-Color\In-2C-34px-R.png
+		C:\Users\DCjordan\Desktop\logo.png = C:\Users\DCjordan\Desktop\logo.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C06029FB-3108-40C1-8C16-74E0633CCC85} = {92FF630B-924E-40F4-A58B-E5491FB6C164}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3404A7A-9C34-4575-A60A-D46BDAB77B11}
+	EndGlobalSection
+EndGlobal

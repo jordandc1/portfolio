@@ -1,0 +1,37 @@
+#name{
+		text-align:right;
+	}
+	.sidenav{
+		margin-top:100px;
+		height:1500px;
+	}
+
+	.list-group-item{
+		border:0;
+	}
+	.logo-image{
+		width:90px;
+		height:90px;
+	}
+	.header{
+		text-align:right;
+		font-family: "Times New Roman", Times, serif;
+	}
+
+	h2{
+		font-family: "Times New Roman", Times, serif;
+	}
+
+	h5{
+		font-family: "Times New Roman", Times, serif;
+	}
+
+	.line{
+		background-color:#7d97ad;
+		display:block;
+		height:5px;
+	}
+
+	.work-grid-header{
+		margin-top:30px;
+	}
