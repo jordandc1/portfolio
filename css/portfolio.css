@@ -6,6 +6,10 @@
 		margin-top:100px;
 		height:1500px;
 	}
+	
+	nav {
+		margin-bottom:30px;
+	}
 
 	.list-group-item {
 		border:0;
