@@ -1,12 +1,12 @@
-	
-	
 
-	
+
+
+
 	.sidenav {
 		margin-top:100px;
 		height:1500px;
 	}
-	
+
 	nav {
 		margin-bottom:30px;
 	}
@@ -14,12 +14,27 @@
 	.list-group-item {
 		border:0;
 	}
-	
+
 	.logo-image {
 		width:90px;
 		height:90px;
 	}
-	
+
+	.google {
+		 width:32px;
+		 height:32px;
+	}
+
+	.facebook {
+		width:32px;
+		height:32px;
+	}
+
+	.linkedin {
+		width:42px;
+		height:32px;
+	}
+
 	.header {
 		text-align:right;
 		font-family: "Times New Roman", Times, serif;
